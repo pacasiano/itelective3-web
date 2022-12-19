@@ -1,7 +1,8 @@
 # Ateneo de Davao University Electronics and Communications Engineering 
 
-![ADDU](Logo/UniversitySeal240px.png "Ateneo de Davao Logo")![ECE](Logo/easec.png "ECE logo")
+<!--- ![ADDU](Logo/UniversitySeal240px.png "Ateneo de Davao Logo")![ECE](Logo/easec.png "ECE logo") --->
 
+<br/>
 
 ## Table of Contents
 * [General info](#exam-management-system)
