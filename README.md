@@ -6,14 +6,18 @@
 ## Table of Contents
 * [General info](#exam-management-system)
     - [Sub-Systems](#Sub-systems)
-* [Frameworks](#frameworks)
-    - [FEVN-Firestore](#fevn-firestore)
+* [Frameworks](#frameworks---fevn)
+    - [FEVN-Firestore](#firestore)
     - [Express](#express)
     - [Vue](#vue)
     - [Node](#node)
 <br/>
 
-## Exam Management System
+***
+
+<br/>
+
+# Exam Management System
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An exam management system is a software tool that helps educators and administrators manage the process of administering exams, grading exams, and tracking student progress. The system typically includes features such as scheduling exams, proctoring exams, grading exams, and managing course materials. Exam management systems can be used in a variety of educational settings, including schools, universities, and professional certification programs.*
 
@@ -21,7 +25,7 @@
 
 <details closed><summary>
     
-### :gear:&nbsp;Sub-systems
+## Sub-systems
     
 </summary>
     
@@ -58,21 +62,21 @@
 <br/>
 
 
-## Frameworks Logo/firestore.png
+## Frameworks - FEVN
 
-#### FEVN-Firestore
+### Firestore
 ![FIRESTORE](Logo/firestore.png "Firestore logo")
   * *FEVN-Firestore is a cloud-based NoSQL database service provided by Google Cloud Platform. It is designed to store and retrieve large amounts of data quickly and efficiently, and is often used in applications that require real-time data synchronization and offline support. FEVN-Firestore is a part of the Google Firebase suite of tools and services, and can be easily integrated with other Firebase products such as Cloud Functions and Cloud Storage.*
 
-#### Express
+### Express
 ![EXPRESS](Logo/express.png "Express logo")
   * *Express is a web application framework for Node.js that provides a set of features and functionality to build web applications and APIs. It is designed to be flexible and lightweight, and is often used in conjunction with other Node.js modules and libraries to build robust and scalable web applications. Express provides features such as routing, middleware support, and template rendering, and is widely used in the development of server-side applications.*
 
-#### Vue
+### Vue
 ![VUE](Logo/vue.png "VUE logo") 
   * *Vue is a progressive JavaScript framework for building user interfaces. It is designed to be easy to use and learn, and focuses on providing a smooth developer experience and a high-performance runtime. Vue is often used for building single-page applications and web components, and is known for its reactive data binding and efficient rendering capabilities.*
 
-#### Node
+### Node
 ![NODE](Logo/node.png "Node logo") 
   * *Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It is designed to be lightweight and efficient, and is often used for building server-side applications and command-line tools. Node.js uses an event-driven, non-blocking I/O model, which makes it well-suited for real-time applications that require high performance and scalability. Node.js is widely used in the development of web servers, APIs, and microservices.*
 
