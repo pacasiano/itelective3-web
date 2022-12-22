@@ -1,10 +1,12 @@
 ___
 
-<img src="Logo/Banner.png" alt="drawing" width="1000"/>
+[<img src="Logo/Banner.png" alt="drawing" width="10000"/>](http://sea.addu.edu.ph/programs/electronics-and-communications-engineering/)
 
 ___
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pacasiano/itelective3-web/total?style=for-the-badge"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/pacasiano/itelective3-web/latest/total?style=for-the-badge"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pacasiano/itelective3-web?style=for-the-badge">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FADDU_SEA"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ADDU_SEA?style=social"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pacasiano/itelective3-web?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/pacasiano/itelective3-web?style=social"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pacasiano/itelective3-web?style=social">
+
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/pacasiano/itelective3-web/total?style=for-the-badge"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/pacasiano/itelective3-web/latest/total?style=for-the-badge"> <img alt="Cocoapods platforms" src="https://img.shields.io/cocoapods/p/itelective3-web?style=for-the-badge"> <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/pacasiano/itelective3-web?style=for-the-badge">
 
 ## Table of Contents
 * [General info](#exam-management-system)
@@ -97,7 +99,7 @@ ___
 # 🔌 Frameworks - FEVN <a name="frameworksfevn"></a>
 |Framework|Description|
 |------|-----|
-| <div align="center"><img src="Logo/firestore.png" alt="drawing" width="300"/> | <a name="Firestore"></a> Firestore is a cloud-based NoSQL database provided by Google Cloud Platform, useful for storing and retrieving large amounts of data quickly and efficiently. |
-| <img src="Logo/express.png" alt="drawing" width="300"/> | <a name="express"></a> Express is a web application framework for Node.js that provides routing, middleware support, and template rendering. |
-| <img src="Logo/vue.png" alt="drawing" width="300"/>  | <a name="vue"></a> Vue is a progressive JavaScript framework for building user interfaces, known for its reactive data binding and efficient rendering. |
-| <img src="Logo/node.png" alt="drawing" width="300"/>  | <a name="node"></a> Node is a JavaScript runtime used for building server-side applications and command-line tools, with an event-driven, non-blocking I/O model. |
+| [<img src="Logo/firestore.png" alt="drawing" width="300"/>](https://cloud.google.com/firestore) | <a name="Firestore"></a> Firestore is a cloud-based NoSQL database provided by Google Cloud Platform, useful for storing and retrieving large amounts of data quickly and efficiently. |
+| [<img src="Logo/express.png" alt="drawing" width="300"/>](https://expressjs.com/) | <a name="express"></a> Express is a web application framework for Node.js that provides routing, middleware support, and template rendering. |
+| [<img src="Logo/vue.png" alt="drawing" width="300"/>](https://vuejs.org/) | <a name="vue"></a> Vue is a progressive JavaScript framework for building user interfaces, known for its reactive data binding and efficient rendering. |
+| [<img src="Logo/node.png" alt="drawing" width="300"/>](https://nodejs.org/en/)  | <a name="node"></a> Node is a JavaScript runtime used for building server-side applications and command-line tools, with an event-driven, non-blocking I/O model. |
